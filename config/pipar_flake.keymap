@@ -27,7 +27,7 @@
             // | A    | S     | D       | //
             // | Z    | X     | FN      | //
 
-            display-name = "0";
+            display-name = "1";
             bindings = <
 &kp CARET       &kp LEFT_WIN    &to 2
 &kp ESCAPE      &kp UP_ARROW    &kp ENTER
