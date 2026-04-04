@@ -55,9 +55,9 @@
 
         layer_2 {
             bindings = <
-&kp C_EJECT  &kp LG(H)             &to 1
-&kp LG(W)    &kp LC(LS(TAB))       &kp LC(TAB)
-&kp LG(R)    &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)
+&kp C_EJECT    &kp LG(H)             &to 1
+&kp LG(W)      &kp LC(LS(TAB))       &kp LC(TAB)
+&kp LG(LS(T))  &kp LG(LEFT_BRACKET)  &kp LG(RIGHT_BRACKET)
             >;
 
             sensor-bindings = <&inc_dec_kp C_VOLUME_UP C_VOLUME_DOWN>;
